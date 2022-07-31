@@ -1,0 +1,13 @@
+.todoList {
+	width: 100%;
+	padding: 1rem;
+  }
+  
+  
+  .todoList__todos {
+	width: 100%;
+	min-height: 470px;
+	overflow-y: auto;
+	overflow-x: hidden;
+  }
+  
